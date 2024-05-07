@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# MVC MASTERY: A ESSENCIA MVC NO BACKEND🌌
 
 ## 📒 Descrição
 Este e-book de 5 páginas explora formas corretas de utilizar a arquitetura MVC com Node.Js, trazendo conceitos e exemplos
